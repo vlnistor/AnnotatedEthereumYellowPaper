@@ -2,7 +2,7 @@
 
 I provide this annotated version of the Ethereum yellow paper as a tool to help onboard engineers onto Ethereum development. Some sections of the original paper would be clearer with further context and/or with more practical examples.
 
-The format follows the sections as written in the original paper, but with more explanations around equations, and more practical examples around complicated concepts. This annotated version is aimed at coders that want a single document that is able to provide a good overview of the Ethereum protocol minus the hard work in understanding the equations and subtleties present.
+The format follows the sections as written in the original paper, but with more explanations around equations, and more practical examples around complicated concepts. This annotated version hopes to provide a single document that is able to provide a good overview of the Ethereum protocol minus the hard work in understanding the equations and subtleties present.
 
 # Section 2
 
